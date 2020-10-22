@@ -1,0 +1,37 @@
+html,
+body {
+    background: url(rock-paper-scissors-seamless-pattern.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    font-family: 'Permanent Marker', cursive;
+}
+
+h1 {
+    color: black;
+    text-shadow: 3px 3px blue;
+    font-size: 5rem;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    background: #2F3FFB;
+}
+
+.options {
+    text-align: center;
+    background: #fdee24e3;
+}
+
+.results {
+    background: #2F3FFB;
+    text-align: center;
+}
+
+img {
+    cursor: pointer;
+    width: 300px;
+    height: 600px;
+}
